@@ -3,6 +3,7 @@
 ![Design preview for the Tip calculator app coding challenge](./preview.jpg)
 
 ## Welcome! 👋
+[live preview](https://abdoxcode.github.io/Frontend-Mentor-Tip-calculator-app/) <--- click here to launch the website live
 
 Thanks for checking out this front-end coding challenge.
 
